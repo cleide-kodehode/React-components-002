@@ -5,7 +5,7 @@ export default function Phrase() {
   return (
     <div className={styles.container}>
       
-      <h1>Speak only when you feel your words are better than the silence</h1>
+      <h1>  Speak only when you feel your words are better than the silence  </h1>
       <br />
       
       <br />
