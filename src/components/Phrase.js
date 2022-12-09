@@ -9,7 +9,7 @@ export default function Phrase() {
       <br />
       
       <br />
-      <h1>You learn more from failure than from success. Don’t let it stop you. Failure builds character.</h1>
+      <h2>You learn more from failure than from success. Don’t let it stop you. Failure builds character.</h2>
             
     </div>
   )
